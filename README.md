@@ -7,3 +7,5 @@ It can be created by useind this simple algorithum.
 4) Move half the distance from your current position to the selected vertex.
 5) Plot the current position.
 6) Repeat from step 3
+
+![](https://github.com/shawsuraj233/-Sierpinski-Triangle-/blob/main/Sierpinski%20Triangle.gif)
